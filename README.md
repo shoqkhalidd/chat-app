@@ -7,7 +7,7 @@ This project demonstrates how to create a basic web Chating application using No
 
 1. Clone this repository
    ```
-   git clone url
+   git clone https://github.com/shoqkhalidd/chat-app.git
    ```
 
 3. Install dependencies
